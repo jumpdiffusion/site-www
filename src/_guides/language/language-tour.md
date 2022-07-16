@@ -56,7 +56,7 @@ apps:
 
 <code>// <em>This is a comment.</em> </code>
 :   A single-line comment.
-    Dart also supports multi-line and document comments.
+    Dart also supports multi-line and documentation comments.
     For details, see [Comments](#comments).
 
 `void`
